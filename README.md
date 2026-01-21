@@ -35,7 +35,7 @@ It contains data related to electric school bus metrics relevant to the project�
 
 ```
 
-electric-school-bus-dashboard/
+school-bus-dashboard/
 │
 ├── app.py                 # Main Streamlit application
 ├── data.xlsx              # Dataset for the dashboard
